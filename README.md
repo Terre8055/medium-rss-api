@@ -23,7 +23,7 @@ To use the API, run the `api.js` file using Node.js:
 ```
 node api.js
 ```
-By default, this will retrieve posts from the Medium account associated with the username `michaeladev`. To retrieve posts from a different Medium account, modify the `getMediumData()` function in `api.js` to use a different username:
+To retrieve posts from a Medium account, modify the `getMediumData()` function in `api.js` to use a different username:
 
 ## Example Response
 
